@@ -98,9 +98,9 @@ Built with **MATLAB App Designer**, the tool (`project2AS.mlapp`) has two tabs:
 
 See `docs/README.md` and the full report for the complete discussion, including the explicit reasoning about which method should be preferred once function-evaluation cost is also taken into account.
 
-## Author
+## Authors
 
-**Niccolò Chiari**, with Jolente Bleijs and Alberto Cozzani  
+Niccolò Chiari, Jolente Bleijs and Alberto Cozzani  
 University of Bologna — February 2024
 
 ## License
